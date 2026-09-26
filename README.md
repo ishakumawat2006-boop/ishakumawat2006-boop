@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Isha Kumawat
 
-<!--
-**ishakumawat2006-boop/ishakumawat2006-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CSAI Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science & Artificial Intelligence student interested in building practical projects, solving problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Java, Python, C++
+- **Computer Science:** Data Structures & Algorithms, OOP
+- **Data & AI:** Data Mining, Machine Learning
+- **Tools:** Git, GitHub, Orange Data Mining, VS Code
+- **Database:** MySQL
+
+---
+
+## 🚀 Projects
+
+### 📊 E-Commerce Customer Segmentation
+Customer segmentation using **K-Means Clustering** and Orange Data Mining.
+
+🔗 [View Project](https://github.com/ishakumawat2006-boop/Customer-Segmentation-KMeans)
+
+### ☕ ATM Management System
+A Java-based ATM Management System using **Java Swing, JDBC, and MySQL**.
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Advanced Java
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+
+- Build practical software projects
+- Improve problem-solving skills
+- Strengthen DSA fundamentals
+- Explore Machine Learning and AI
+- Prepare for software development opportunities
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [@ishakumawat2006-boop](https://github.com/ishakumawat2006-boop)
+
+---
+
+⭐ *Learning, building, and improving one project at a time.*
